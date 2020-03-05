@@ -13,4 +13,5 @@ do
 	convert $img $img_sem_ext.png
 done
 echo "Finalizando conversão."
+echo "sucesso!"
 cd ..
