@@ -3,8 +3,8 @@
 #Autores: Mário Jamisson e Fernanda Costa
 #
 #Este script tem como função converter imagens .jpg em .png
-
-echo "Bem-vindo ao JFConversor 1.0"
+#LEILA PASSOU AQUI!!! AHAHAHAHAHAHAHHA
+echo "Bem-vindo ao JFL Conversor 1.0.1"
 echo "Iniciando conversão."
 for img in *.jpg
 do
